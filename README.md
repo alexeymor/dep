@@ -1,4 +1,4 @@
 dep
 ===
 
-Dependency graph generators for files (dep_file_fortran - really it's for call's and use's) and variables (dep_var_c)
+Dependency graph generators for Fortran files (dep_file_fortran  - just looks for calls and uses) and variables in C-files (dep_var_c)
