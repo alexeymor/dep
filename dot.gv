@@ -1,0 +1,5 @@
+digraph G { size="7.75,10.25"; rankdir=LR; weight=1.2; nodesep=0.1; 
+"a"->"c";"b"->"c";
+"a"->"b";
+"func"->"e";"c"->"e";
+"a"->"d"}
